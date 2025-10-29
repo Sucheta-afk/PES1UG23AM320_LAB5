@@ -1,6 +1,6 @@
 # Static Code Analysis Lab Report
 
-**Student Name**: [Your Name]  
+**Student Name**: Sucheta R. Shinganmakki  
 **Date**: October 29, 2025
 
 ## Known Issues Table
