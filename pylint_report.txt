@@ -1,0 +1,15 @@
+************* Module cleaned_inventory_system
+cleaned_inventory_system.py:189:0: C0304: Final newline missing (missing-final-newline)
+cleaned_inventory_system.py:64:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:72:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:76:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:79:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:100:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:103:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:109:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:126:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+cleaned_inventory_system.py:128:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 9.89/10, -1.03)
+
